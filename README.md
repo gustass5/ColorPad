@@ -1,2 +1,2 @@
 # ColorPad
-Colorful visualization tool created with P5Js
+Colorful visualization tool on your browser created with P5Js
